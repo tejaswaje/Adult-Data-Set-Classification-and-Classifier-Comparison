@@ -1,7 +1,7 @@
 # Adult-Data-Set-Classification and Classifier Comparison
 To run this program, use the code present in classify.py and dataset which can be obtained from https://drive.google.com/open?id=1y_9yAaLnC9aD_AOXp7jo1s9FqpABFSui.
-- Place the data set and assignment.py file in the same directory 
-- Open SPYDER IDE and open the assignment.py
+- Place the data set and classify.py file in the same directory 
+- Open SPYDER IDE and open the classify.py
 - Click on the run file button 
 
 
